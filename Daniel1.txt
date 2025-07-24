@@ -1,2 +1,5 @@
-Salut, Daniel.
-IT Domain.
+<<<<<<< HEAD
+=======
+2025
+Daniel Odobescu, 22.
+>>>>>>> dev
