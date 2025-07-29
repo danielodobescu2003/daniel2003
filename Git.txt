@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 29.07.2025
 Daniel Odobescu wants to become a QA Software Tester
 He likes so much to listen to Metallica, he likes the IT Domain and the QA Software Testing.
@@ -6,3 +7,11 @@ Add the first message.
 Daniel, bro.
 Hello, how are you?
 I am fine, thank you.
+=======
+123456
+Daniel Odobescu wants to become a QA Software Tester
+He likes so much to listen to Metallica, he likes the IT Domain and the QA Software Testing.
+24.04.2003
+Add the first message.
+Daniel, bro.
+>>>>>>> 94eb008e7875ee268fd847e5d9f3b720415a8dd3
