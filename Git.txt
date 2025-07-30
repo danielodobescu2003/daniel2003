@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 <<<<<<< HEAD
 29.07.2025
 Daniel Odobescu wants to become a QA Software Tester
@@ -15,3 +16,11 @@ He likes so much to listen to Metallica, he likes the IT Domain and the QA Softw
 Add the first message.
 Daniel, bro.
 >>>>>>> 94eb008e7875ee268fd847e5d9f3b720415a8dd3
+=======
+29.07.2025
+My name is Daniel Odobescu.
+I like to listen to rock and pop music (ex. Metallica), I like the IT Domain, the QA Software Testing and the English language.
+24.04.2003 - my birthday;
+Add the first message: 
+Daniel bro.
+>>>>>>> Stashed changes
